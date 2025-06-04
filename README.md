@@ -18,16 +18,13 @@ I focus on developing AI models that enhance decision-making, automate processes
 
 - 🎓 **AI Summer School Trainee** – KAUST Academy (2025 Cohort)  
 - 🎯 **McKinsey Forward Program Graduate**  
-- 🤖 Developed a recommendation system for Thmanyah internship task  
-- 🧪 Active in building ML/DL prototypes and end-to-end systems  
-- 🌍 Exploring Generative AI, Agentic Workflows, and AI4Good
 
 ---
 
 ## 🛠 Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,linux,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,java,pandas,numpy,sklearn,opencv,git,github,vscode" />
 </p>
 
 ---
@@ -35,16 +32,16 @@ I focus on developing AI models that enhance decision-making, automate processes
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YazanAlkamal&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YazanAlkamal&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=POGYaz&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=POGYaz&theme=radical" width="400"/>
 </p>
 
 ---
 
 ## 🌐 Portfolio
 
-🧾 [View My Work](https://your-portfolio-link.com)  
-📫 Reach me: yazan.contact@email.com  
+🧾 [View My Work](https://al-kamal.net)  
+📫 Reach me: yazan@al-kamal.net 
 📍 Location: Saudi Arabia
 
 ---
