@@ -5,7 +5,7 @@
 - 🛠 Lang & Framework: Python, FastAPI, PyTorch, Hugging Face, Docker  
 - ⛏ Interest: NLP, Computer Vision, Intelligent Automation, MLOps  
 
-### Latest blogs from 📝 [Al-Kamal.net](https://Al-kamal.net)
+### Latest blogs from 📝 [al-kamal.net](https://Al-kamal.net)
 
 - [Building Real-World AI Projects as a Student](https://Al-kamal.net) (2025-09-01)  
 - [From KAUST Academy to AI Engineering: My Journey](https://Al-kamal.net) (2025-08-15)  
@@ -13,17 +13,7 @@
 
 ### Portfolio
 
-> [Al-Kamal.net](https://Al-kamal.net)
+> [al-kamal.net](https://Al-kamal.net)
 
-![POGYaz's github stats](https://github-readme-stats.vercel.app/api?username=pogyaz&show_icons=true&theme=dracula&hide=stars,issues)
+![pogyaz's Stats](https://github-readme-stats.vercel.app/api?username=pogyaz&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
-<details>
-  <summary>Click👆</summary>
-  <pre>
-  🤷‍♂️
-  </pre>
-</details>
-
-![build](https://github.com/pogyaz/pogyaz/workflows/build/badge.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/pogyaz/pogyaz)
-![pv](https://pageview.vercel.app/?github_user=pogyaz)
