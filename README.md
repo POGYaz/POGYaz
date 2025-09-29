@@ -1,8 +1,10 @@
-# Yazan Al-Kamal
+> Yazan Al-Kamal | AI Engineer
 
-Aspiring AI Engineer · Software Engineering @ Umm Al-Qura University  
-Focus: NLP · CV · Intelligent Automation  
+Junior Software Engineering student @ Umm Al-Qura University  
+Aspiring AI Engineer — interested in NLP, CV, and Intelligent Automation  
+
+🌍 [Portfolio](https://Al-kamal.net)
 
 ---
 
-![Metrics](https://metrics.lecoq.io/pogyaz?template=classic&base=header,activity,community&base.indepth=false&config.timezone=Asia%2FRiyadh&plugin=stars,topics,repositories&topics=1&topics.mode=labels&stars=1&stars.limit=3&repositories=1&repositories.featured=yourrepo1,yourrepo2)
+
