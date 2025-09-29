@@ -1,20 +1,25 @@
-> 👨🏻‍💻 AI Engineer
+# Hey, I'm Yazan 👋
 
-### Tech Stack
+AI Engineer in the making | Software Engineering @ Umm Al-Qura University  
 
-- 🛠 Lang & Framework: Python, FastAPI, PyTorch, Hugging Face, Docker  
-- ⛏ Interest: NLP, Computer Vision, Intelligent Automation, MLOps  
+---
 
-### Latest blogs from 📝 [al-kamal.net](https://Al-kamal.net)
+### 🚀 About Me
+- 📌 Top 100 — KAUST Academy AI Specialization & Summer School  
+- 🌱 Alumni — McKinsey Forward Program  
+- 🔭 Exploring NLP, Computer Vision & Intelligent Automation  
+- 🛠 Building practical, end-to-end AI projects  
 
-- [Building Real-World AI Projects as a Student](https://Al-kamal.net) (2025-09-01)  
-- [From KAUST Academy to AI Engineering: My Journey](https://Al-kamal.net) (2025-08-15)  
-- [How Retrieval-Augmented Generation Powers Smarter Chatbots](https://Al-kamal.net) (2025-07-20)  
+---
 
-### Portfolio
+### 🧰 Tech Toolbox
+`Python` · `PyTorch` · `FastAPI` · `Hugging Face` · `Docker` · `Git`  
 
-> [al-kamal.net](https://Al-kamal.net)
+---
 
+### 📂 Portfolio
+Check out my work 👉 [Al-Kamal.net](https://Al-kamal.net)  
 
-![pogyaz's Stats](https://github-readme-stats.vercel.app/api?username=pogyaz&theme=dark&show_icons=true&hide_border=false&count_private=true)
+---
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pogyaz&show_icons=true&theme=radical&hide=stars,issues)
