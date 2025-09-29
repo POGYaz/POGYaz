@@ -1,15 +1,8 @@
 # Yazan Al-Kamal
 
-> Junior Software Engineering @ Umm Al-Qura University  
-> Aspiring AI Engineer | Focus: NLP · CV · Automation  
+Aspiring AI Engineer · Software Engineering @ Umm Al-Qura University  
+Focus: NLP · CV · Intelligent Automation  
 
-```yaml
-tech:
-  languages: [Python]
-  frameworks: [PyTorch, FastAPI, Hugging Face]
-  tools: [Docker, Git]
-Portfolio → Al-Kamal.net
+---
 
-pgsql
-```
-
+![Metrics](https://metrics.lecoq.io/pogyaz?template=classic&base=header,activity,community&base.indepth=false&config.timezone=Asia%2FRiyadh&plugin=stars,topics,repositories&topics=1&topics.mode=labels&stars=1&stars.limit=3&repositories=1&repositories.featured=yourrepo1,yourrepo2)
