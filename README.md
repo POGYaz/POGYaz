@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/e3/63/e3/e363e38ceffaece60e00b87ee4286e08.gif" width="140" /> 
+  <img src="polifolli-robot.gif" width="500" /> 
 
 
   ### Hello, my name is Yazan.
